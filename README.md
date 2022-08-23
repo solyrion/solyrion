@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 👋 Introduce
-세종대학교 19학번 컴퓨터공학과를 전공하고 있습니다.
+세종대학교 컴퓨터공학과를 전공하고 있습니다.
 
 백엔드, PS 공부중 입니다
 
