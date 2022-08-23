@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👋👋
+### 👋 Introduce
+세종대학교 19학번 컴퓨터공학과를 전공하고 있습니다.
+백엔드, PS 공부중 입니다
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ert1015)](https://solved.ac/ert1015)
 ![solyrion's GitHub stats](https://github-readme-stats.vercel.app/api?username=solyrion&show_icons=true&theme=synthwave)
 
