@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 
-### ![image](https://user-images.githubusercontent.com/70051475/186180025-95a66f2e-bf64-430c-a90d-dc1d1a2c1f07.png) PS
+### :computer:
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ert1015)](https://solved.ac/ert1015)
+
 ![solyrion's GitHub stats](https://github-readme-stats.vercel.app/api?username=solyrion&show_icons=true&theme=synthwave)
 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ert1015)](https://solved.ac/ert1015)
 
 
 
