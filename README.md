@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 
 ### :computer: PS
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ert1015)](https://solved.ac/ert1015)
-<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/>
-
-
-
+<img src="http://mazandi.herokuapp.com/api?handle={ert1015}&theme=warm"/>
 
 
 
