@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 -->
 ### Hi 👋👋
 ![solyrion's GitHub stats](https://github-readme-stats.vercel.app/api?username=solyrion&show_icons=true&theme=synthwave)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ert1015)](https://solved.ac/ert1015)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ert1015)](https://solved.ac/ert1015)
 
