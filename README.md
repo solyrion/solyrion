@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 
 ### :computer: PS
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ert1015)](https://solved.ac/ert1015)
-<img src="http://mazandi.herokuapp.com/api?handle=ert1015&theme=dark"/>
 [Baekjoon](https://solved.ac/profile/ert1015 "Baekjoon")
 
 
