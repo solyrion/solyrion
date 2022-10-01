@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ert1015)](https://solved.ac/ert1015)
 <img src="http://mazandi.herokuapp.com/api?handle=ert1015&theme=dark"/>
-
+[Baekjoon](https://solved.ac/profile/ert1015 "Baekjoon")
 
 
 
