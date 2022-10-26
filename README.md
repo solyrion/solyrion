@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
-<h3 align="center"><b>💻: PS</b></h3>
+<h3 align="center"><b>💻 PS</b></h3>
 <p align="center">
+
 [Baekjoon](https://solved.ac/profile/ert1015 "Baekjoon")
 
 
