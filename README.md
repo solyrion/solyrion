@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b>💻 PS</b></h3>
 <p align="center">
-
 [Baekjoon](https://solved.ac/profile/ert1015 "Baekjoon")
 
 
