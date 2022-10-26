@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Introduce
+<h3 align="center"><b>👋 Introduce</b></h3>
+<p align="center">
 세종대학교 컴퓨터공학과를 전공하고 있습니다.
-
 백엔드(Django), PS, DATA 공부중 입니다
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
-
-### :computer: PS
+<h3 align="center"><b>computer: PS</b></h3>
+<p align="center">
 [Baekjoon](https://solved.ac/profile/ert1015 "Baekjoon")
 
 
