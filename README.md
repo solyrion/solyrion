@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 백엔드(Django), PS, DATA 공부중 입니다
 
 ### 🛠 Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
 
 ### :computer: PS
 [Baekjoon](https://solved.ac/profile/ert1015 "Baekjoon")
