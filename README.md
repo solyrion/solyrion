@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 
 [Baekjoon](https://solved.ac/profile/ert1015 "Baekjoon")
 
+### 💻 블로그
+[Tistory] (https://sde1015.tistory.com/)
+
+
 
 
 
