@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 안녕하세요
 
 ## 🛠 Tech Stack 🛠
-Language
+**Language**
 <div align=left>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -30,7 +30,8 @@ Language
 </div>
 
 <br />
-Backend
+
+**Backend**
 
 <div align=left>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
@@ -41,7 +42,8 @@ Backend
 </div>
 
 <br />
-Devops
+
+**Devops**
 
 <div align=left>
   <img src="https://img.shields.io/badge/AWS-F38020?style=flat-square&logo=AWS&logoColor=white"/>
@@ -50,7 +52,8 @@ Devops
 </div>
 
 <br />
-Etc
+
+**Etc**
 
 <div align=left>
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>
