@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 
 ## 🧑‍🧑‍🧒‍🧒 Activity
 🟩 Naver Boostcamp Web Fullstack 9th (2024.07 ~ 2024.12)
+  
 🟨 KakaoTech BootCamp Cloud Native 3rd (2025.09 ~ )
 
 
