@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 [Tistory](https://sde1015.tistory.com/ "Tistory")
 
 ## 🧑‍🧑‍🧒‍🧒 Activity
-- Naver Boostcamp Web Fullstack 9th 🟦 (2024.07 ~ 2024.12)
-- KakaoTech BootCamp Cloud Native 3rd 🟨 (2025.09 ~ )
+🟩 Naver Boostcamp Web Fullstack 9th (2024.07 ~ 2024.12)
+🟨 KakaoTech BootCamp Cloud Native 3rd (2025.09 ~ )
 
 
 
